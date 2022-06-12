@@ -1,4 +1,5 @@
 -- queries done on master table after importing csv to mysql
+
 use olympics; -- using olympics schema
 
 -- 1. Find the average number of medals won by each country.
